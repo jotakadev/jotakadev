@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando com análises e visualização de dados **Data Analyst Google**
 
-- 🌱 Atualmente estou estudando **Python, R, SQL, QlikSens, Power BI, Tableu**
+- 🌱 Atualmente estou estudando **Python, R, SQL, Qlik Sense, Power BI, Tableu**
 
-- 💬 Me pergunte sobre **Power BI, Excel, Python**
+- 💬 Me pergunte sobre **Power BI, Excel, Qlik Sense, Python**
 
 - 📫 Você me acha **jotakadev@gmail.com**
 
