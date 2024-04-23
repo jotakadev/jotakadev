@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com análises e visualização de dados **Data Analyst Google**
 
-- 🌱 Atualmente estou estudando **Python, R, SQL, Power BI, Tableu**
+- 🌱 Atualmente estou estudando **Python, R, SQL, QlikSens, Power BI, Tableu**
 
 - 💬 Me pergunte sobre **Power BI, Excel, Python**
 
